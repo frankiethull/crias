@@ -1,0 +1,13 @@
+Package: crias
+Title: a DnD game in R made possible by ollama and ellmer
+Version: 0.0.0.9000
+Authors@R: 
+    person("Frank", "Hull", , "frankiethull@gmail.com", role = c("aut", "cre"))
+Description: The package is designed as a turn-based game between human and AI players. But instead of Dungeons and Dragons, it is Crags y Crias.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: 
+    ellmer,
+    S7
